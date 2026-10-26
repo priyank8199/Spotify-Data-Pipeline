@@ -1,0 +1,15 @@
+{
+	"name": "dfdeazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14a83d5a-9b71-46b5-8e09-a3a2b172e670",
+		"tenantId": "e439fb78-b764-4f6b-9b94-759b752369a3"
+	}
+}
